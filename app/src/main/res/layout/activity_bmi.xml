@@ -30,7 +30,7 @@
             android:button="@null"
             android:checked="true"
             android:gravity="center"
-            android:text="METRIC UNITS"
+            android:text="@string/metric_units"
             android:textColor="@drawable/drawable_units_tab_text_color_selector"
             android:textSize="16sp"
             android:textStyle="bold" />
